@@ -1,0 +1,1995 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"smal",
+				"smallFont"
+			],
+			[
+				"smll",
+				"smallFont"
+			],
+			[
+				"contain",
+				"containerWidth"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"conta",
+				"containerWidth"
+			],
+			[
+				"navba",
+				"navbarHeight"
+			],
+			[
+				"conr",
+				"contanerWidth"
+			],
+			[
+				"undersco",
+				"underscore"
+			],
+			[
+				"back",
+				"Backbone"
+			],
+			[
+				"handl",
+				"handlebars"
+			],
+			[
+				"brow",
+				"browserify"
+			],
+			[
+				"TestV",
+				"TesterView"
+			],
+			[
+				"bac",
+				"backbone"
+			],
+			[
+				"bab",
+				"Backbone"
+			],
+			[
+				"yeoman",
+				"yeomanConfig"
+			],
+			[
+				"bower",
+				"bower_components"
+			],
+			[
+				"delta",
+				"deltaY"
+			],
+			[
+				"fade",
+				"fadeOut	jQuery"
+			],
+			[
+				"fad",
+				"fadeOut	jQuery"
+			],
+			[
+				"maxim",
+				"maximum"
+			],
+			[
+				"resol",
+				"resolution"
+			],
+			[
+				"form",
+				"format"
+			],
+			[
+				"colord",
+				"colorDomain"
+			],
+			[
+				"allt",
+				"allTotals"
+			],
+			[
+				"maximu",
+				"maximu"
+			],
+			[
+				"PieCh",
+				"PieChart"
+			],
+			[
+				"optio",
+				"options"
+			],
+			[
+				"upd",
+				"UpdateLabels"
+			],
+			[
+				"Creal",
+				"CreateLabels"
+			],
+			[
+				"miniu",
+				"minimums"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"bott",
+				"bottom"
+			],
+			[
+				"formatLabel",
+				"formatLabels"
+			],
+			[
+				"formatl",
+				"formatLabel"
+			],
+			[
+				"groupn",
+				"groupNames"
+			],
+			[
+				"mapcol",
+				"mapColumns"
+			],
+			[
+				"datana",
+				"dataNames"
+			],
+			[
+				"perce",
+				"percent-pie"
+			],
+			[
+				"inter",
+				"interpolators"
+			],
+			[
+				"dataNa",
+				"dataNames"
+			],
+			[
+				"percenta",
+				"percentage"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"percent",
+				"percentage"
+			],
+			[
+				"percet",
+				"percentage"
+			],
+			[
+				"per",
+				"percentage"
+			],
+			[
+				"indent_s",
+				"indent_size"
+			],
+			[
+				"upda",
+				"updateIcon"
+			],
+			[
+				"tabC",
+				"tabCount"
+			],
+			[
+				"swi",
+				"switchtab"
+			],
+			[
+				"thisWin",
+				"thisWindow"
+			],
+			[
+				"ANIMT",
+				"ANIM_TIME"
+			],
+			[
+				"high",
+				"highlightTab"
+			],
+			[
+				"mapop",
+				"mapOptions"
+			],
+			[
+				"maxi",
+				"maximum"
+			],
+			[
+				"lege",
+				"legend"
+			],
+			[
+				"piec",
+				"pieChartOptions"
+			],
+			[
+				"paddint",
+				"paddingTop"
+			],
+			[
+				"pie",
+				"pieChartOptions"
+			],
+			[
+				"DEFA",
+				"DEFAULTS"
+			],
+			[
+				"tex",
+				"text-align:   (property)"
+			],
+			[
+				"precisi",
+				"precision"
+			],
+			[
+				"grapha",
+				"graphNames"
+			],
+			[
+				"govb",
+				"govBarOptions"
+			],
+			[
+				"labelH",
+				"labelHeight"
+			],
+			[
+				"barScal",
+				"barScale"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"arct",
+				"arcTween"
+			],
+			[
+				"Options",
+				"options"
+			],
+			[
+				"selec",
+				"selection"
+			],
+			[
+				"ANIM",
+				"ANIM_DURATION"
+			],
+			[
+				"paddingto",
+				"paddingTop"
+			],
+			[
+				"outer",
+				"outerRadius"
+			],
+			[
+				"MOD_",
+				"MOD_BINARY"
+			],
+			[
+				"keystr",
+				"keystring"
+			],
+			[
+				"sho",
+				"shortKey"
+			],
+			[
+				"MOD_C",
+				"MOD_CODES"
+			],
+			[
+				"MODIF",
+				"MODIFIERS"
+			],
+			[
+				"galler",
+				"gallery"
+			],
+			[
+				"video",
+				"videoUr"
+			],
+			[
+				"thum",
+				"thumbnail"
+			],
+			[
+				"sil",
+				"silent"
+			],
+			[
+				"filet",
+				"fileTypes"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"currentta",
+				"currentTarget	jsEvent"
+			],
+			[
+				"W",
+				"WHY"
+			],
+			[
+				"currentTar",
+				"currentTarget	jsEvent"
+			],
+			[
+				"gette",
+				"getTemplateData"
+			],
+			[
+				"removec",
+				"removeClass	jQuery"
+			],
+			[
+				"rem",
+				"removeClass	jQuery"
+			],
+			[
+				"prv",
+				"preventDefault	jsEvent"
+			],
+			[
+				"tracking",
+				"trackingId"
+			],
+			[
+				"va",
+				"value	jsDOM"
+			],
+			[
+				"annu",
+				"annualTotalCost"
+			],
+			[
+				"mapco",
+				"mapColumns"
+			],
+			[
+				"an",
+				"annualOtherExpenses"
+			],
+			[
+				"bargrap",
+				"barGraphData"
+			],
+			[
+				"ann",
+				"annualOtherExpenses"
+			],
+			[
+				"seria",
+				"serializeArray	jQuery"
+			],
+			[
+				"toggl",
+				"toggleAnswer"
+			],
+			[
+				"MS",
+				"MSEC_PER_DAY"
+			],
+			[
+				"challeng",
+				"challengeWidth"
+			],
+			[
+				"sucess",
+				"ajaxSuccess	jQuery"
+			],
+			[
+				"orig",
+				"originalData"
+			],
+			[
+				"app",
+				"apply-coupon-input"
+			],
+			[
+				"sateL",
+				"stateLabel"
+			],
+			[
+				"barWid",
+				"barWidth"
+			],
+			[
+				"getStat",
+				"getStateTotal"
+			],
+			[
+				"colorInt",
+				"colorInterpolator"
+			],
+			[
+				"colors",
+				"colorStops"
+			],
+			[
+				"pieInn",
+				"pieInnerRadius"
+			],
+			[
+				"pieIn",
+				"pieInnerRadius"
+			],
+			[
+				"percentFo",
+				"percentFormat"
+			],
+			[
+				"unperce",
+				"unpercent"
+			],
+			[
+				"piein",
+				"pieInnerRadius"
+			],
+			[
+				"pieout",
+				"pieOuterRadius"
+			],
+			[
+				"daaa",
+				"daaaata"
+			],
+			[
+				"stateDa",
+				"stateData"
+			],
+			[
+				"barSp",
+				"barSpace"
+			],
+			[
+				"bar",
+				"barHeigh"
+			],
+			[
+				"graph",
+				"graphYears"
+			],
+			[
+				"dollar",
+				"dollarFormat"
+			],
+			[
+				"rowPo",
+				"rowPosition"
+			],
+			[
+				"bars",
+				"barSpace"
+			],
+			[
+				"barHei",
+				"barHeight"
+			],
+			[
+				"graphNa",
+				"graphNames"
+			],
+			[
+				"colorin",
+				"colorInterpolator"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"surr",
+				"Surround: change surround"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"handl",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"j2c",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js2c",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"js2",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"modi",
+				"Git: Open Modified Files"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"codein",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"jva",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js2co",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"git stash",
+				"Git: Stash Pop"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"gitpu",
+				"Git: Pull"
+			],
+			[
+				"git comman",
+				"Git: Custom Command"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"syn styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"ja",
+				"Set Syntax: Jade"
+			],
+			[
+				"expa",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"emme",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"emmet rena",
+				"Emmet: Rename Tag"
+			],
+			[
+				"disab",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"js",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"pac ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"j2",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"sy coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"codei",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"em",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"pacak",
+				"Package Control: Discover Packages"
+			],
+			[
+				"paca",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pakca",
+				"Package Control: List Packages"
+			],
+			[
+				"dis",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"dis ",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"disa",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"sy ha",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"sy co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ha",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"han",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"sy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy h",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sy cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"sy te",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sy ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"h r",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"sy htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"s c#",
+				"Set Syntax: C#"
+			],
+			[
+				"sscs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"shr",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"syhr",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"ssscs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/giladgray/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/assets/filter.svg",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/_popup.html",
+		"/Users/giladgray/Documents/Projects/grunt-intro/dist/index.html",
+		"/Users/giladgray/Documents/Projects/grunt-intro/app/index.html",
+		"/Users/giladgray/Documents/Projects/grunt-intro/package.json",
+		"/Users/giladgray/Documents/Projects/grunt-intro/bower.json",
+		"/Users/giladgray/Documents/Projects/grunt-intro/dist/scripts/main.js",
+		"/Users/giladgray/Documents/Projects/grunt-intro/dist/styles/main.css",
+		"/Users/giladgray/Documents/Projects/grunt-intro/app/styles/main.sass",
+		"/Users/giladgray/Documents/Projects/grunt-intro/.bowerrc",
+		"/Users/giladgray/Documents/Projects/grunt-intro/app/scripts/main.coffee",
+		"/Users/giladgray/Documents/Projects/grunt-intro/app/templates/item.hbs",
+		"/Users/giladgray/Documents/Projects/grunt-intro/.gitignore",
+		"/Users/giladgray/Documents/Projects/grunt-intro/app/styles/main.coffee",
+		"/Users/giladgray/Documents/Projects/grunt-intro/app/scripts/main.sass",
+		"/Users/giladgray/Documents/Projects/grunt-intro/README.md",
+		"/Users/giladgray/Documents/Projects/meteor/what-when/README.md",
+		"/Users/giladgray/Documents/Projects/regexjs/app/bower_components/layoutmanager-amd/.bower.json",
+		"/Users/giladgray/Documents/Projects/regexjs/app/scripts/models/expression.coffee",
+		"/Users/giladgray/Documents/Projects/regexjs/app/scripts/views/editor.coffee",
+		"/Users/giladgray/Documents/Projects/regexjs/Gulpfile.coffee",
+		"/Users/giladgray/Documents/Projects/regexjs/app/scripts/views/test.coffee",
+		"/Users/giladgray/Documents/Projects/regexjs/app/styles/main.scss",
+		"/Users/giladgray/Documents/Projects/regexjs/app/index.html",
+		"/Users/giladgray/Documents/Projects/regexjs/app/scripts/views/help.coffee",
+		"/Users/giladgray/Documents/Projects/regexjs/app/scripts/views/navbar.coffee",
+		"/Users/giladgray/Documents/Projects/regexjs/app/scripts/views/tester.coffee",
+		"/Users/giladgray/Documents/Projects/regexjs/app/scripts/router.coffee",
+		"/Users/giladgray/.zshrc",
+		"/Users/giladgray/Documents/Projects/regexjs/dist/scripts/index.js",
+		"/Users/giladgray/Documents/Projects/regexjs/dist/templates.js",
+		"/Users/giladgray/Documents/Projects/regexjs/app/scripts/main.coffee",
+		"/Users/giladgray/Documents/Projects/regexjs/app/scripts/app.coffee",
+		"/Users/giladgray/Documents/Projects/regexjs/app/scripts/config.coffee",
+		"/Users/giladgray/Documents/Projects/regexjs/dist/scripts/app.coffee",
+		"/Users/giladgray/Documents/Projects/regexjs/app/scripts/lib/bootstrap.js",
+		"/Users/giladgray/Documents/Projects/regexjs/app/scripts/lib/regex.js",
+		"/Users/giladgray/Documents/Projects/regexjs/package.json",
+		"/Users/giladgray/Documents/Projects/regexjs/node_modules/gulp-handlebars/node_modules/handlebars/dist/handlebars.runtime.js",
+		"/Users/giladgray/Documents/Projects/regexjs/dist/scripts/templates.js",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/templates/thumb.hjs",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/scripts/router.coffee",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/scripts/views/index.coffee",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/templates/gallery.hjs",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/templates/slide.hjs",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/styles/carousel.scss",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/scripts/views/favorites.coffee",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/scripts/views/slide.coffee",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/styles/main.scss",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/scripts/views/gallery.coffee",
+		"/Users/giladgray/Documents/Projects/regexjs/app/bower_components/handlebars/bower.json",
+		"/Users/giladgray/Documents/Projects/regexjs/.editorconfig",
+		"/Users/giladgray/Documents/Projects/regexjs/app/templates/_test.hbs",
+		"/Users/giladgray/Documents/Projects/regexjs/app/templates/editor.hbs",
+		"/Users/giladgray/Documents/Projects/regexjs/Gruntfile.coffee",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/README.md",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/.gitignore",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/package.json",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/dist/manifest.json",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/src/style.scss",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/dist/popup.html",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/assets/tab-icon128.png",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/src/switchtab.coffee",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/Gruntfile.coffee",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/dist/hotkey.js",
+		"/Users/giladgray/Documents/Projects/killer/turbotax-docs/app/bower_components/modernizr/feature-detects/json.js",
+		"/Users/giladgray/Documents/Projects/killer/turbotax-docs/Gruntfile.js",
+		"/Users/giladgray/Documents/Projects/killer/turbotax-docs/app/index.html",
+		"/Users/giladgray/Documents/Projects/killer/turbotax-docs/app/scripts/docs.js",
+		"/Users/giladgray/Documents/Projects/killer/turbotax-docs/app/styles/main.scss",
+		"/Users/giladgray/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/giladgray/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/lib/pie-chart.coffee",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/lib/bar-graph.coffee",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/bower.json",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/data/bills.csv",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/lib/mint-map.coffee",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/bills.coffee",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/index.html",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/styles/mint-map.scss",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/Gruntfile.coffee",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/.editorconfig",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/styles/main.scss",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/data/raw/fees.csv",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/data/raw/healthcare.csv",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/data/raw/insurance.csv",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/data/raw/shelter.csv",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/_generate.coffee",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/data/raw/totals.csv",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/data/raw/utilities.csv",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/data/bills.json",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/package.json",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/mint-map.coffee",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/data/education.csv",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/education.coffee",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/vendor/_bootstrap.js",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/vendor/bootstrap.coffee",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/lib/bootstrap.coffee",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/transportation.coffee",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/dist/index.html",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/education.html",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/dist/scripts/0ca247bd.main.js",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/bower_components/jquery/package.json",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/src/hotkey.coffee",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/manifest.json",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/node_modules/jquery/lib/node-jquery.js",
+		"/Users/giladgray/Documents/Projects/chrome-switchtab/dist/switchtab.js",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/pie-chart.coffee",
+		"/Users/giladgray/Documents/Projects/killer/mint-maps/app/scripts/bar-graph.coffee",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/scripts/libs/keycode-names.coffee",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/scripts/libs/ivories.coffee",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/Gruntfile.js",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/scripts/config.coffee",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/templates/urlbar.hjs",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/templates/partials/video.hjs",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/scripts/app.coffee",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/scripts/libs/keynames.coffee",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/scripts/libs/keymap.coffee",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/package.json",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/app/styles/modal.scss",
+		"/Users/giladgray/Documents/Projects/lookit-bbb/.editorconfig",
+		"/Users/giladgray/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/giladgray/Documents/Projects/generator-backstrap/app/templates/app/scripts/plugins.coffee",
+		"/Users/giladgray/Documents/Projects/meteor/what-when/.meteor/packages",
+		"/Users/giladgray/Documents/Projects/meteor/what-when/smart.json",
+		"/Users/giladgray/Documents/Projects/meteor/what-when/positions.styl",
+		"/Users/giladgray/Documents/Projects/meteor/what-when/what-when.styl"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.coffee",
+			"",
+			"*.html",
+			"*.hbs",
+			"",
+			"*.scss",
+			"*.styl",
+			"styl",
+			"",
+			"*.styl",
+			"*.jade",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.jade",
+			"*.styl",
+			"",
+			"*organization*",
+			"",
+			"*.styl",
+			"*.style",
+			"",
+			"*.styl",
+			"",
+			"*.jade",
+			"",
+			"*.styl",
+			"",
+			"*.js",
+			"*.styl",
+			"",
+			"*.jade",
+			"*.styl",
+			"",
+			"*.styl",
+			"*.js",
+			"*.jade",
+			"*.styl",
+			"",
+			"sass-bootstrap/**/*.scss",
+			"sass-bootstrap/*",
+			"**/content/*.jade",
+			"*.jade",
+			"",
+			"*.styl",
+			"*.jade",
+			"*.js",
+			"",
+			"*.jade",
+			"*.styl",
+			"*.jade",
+			"*.jade, *.styl",
+			"*.jade, *.styk",
+			"",
+			"*.styl",
+			"",
+			"*.jade",
+			"",
+			"*.js",
+			"",
+			"*.styl",
+			"*.jade",
+			"",
+			"*.jade",
+			"*.styl",
+			"",
+			"*.hjs",
+			"*.hbs",
+			".hbs",
+			"hbs",
+			"",
+			"*.jade",
+			"",
+			"*.jade, *.html",
+			"*.jade",
+			"public/javascript",
+			"*.jade",
+			"",
+			"*.jade",
+			"",
+			"*.jade",
+			"",
+			"*.coffee",
+			"",
+			"*.coffee",
+			"",
+			"*.coffee",
+			"",
+			"scripts/*",
+			"*",
+			"dist/*",
+			"*",
+			"/Users/giladgray/Documents/Projects/whichbus-bbb/app/templates",
+			"*",
+			"*.css",
+			"*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"(\\w)",
+			"\"item\"",
+			"\n",
+			"options.",
+			"\\bconfig\\b",
+			"\\bconfig",
+			"config",
+			".tmp",
+			"app",
+			"styles",
+			"coffee",
+			"today",
+			"small",
+			"icon",
+			"contanerWidth",
+			"login",
+			"account",
+			"handleb",
+			"test",
+			"require 'backbone'",
+			"jquery",
+			"backbone.layoutm",
+			"backbone.lay",
+			"backbone",
+			"Backbone.$",
+			"testerview",
+			"backbone.layout",
+			"#navbar",
+			"handle",
+			"merge",
+			"TesterView",
+			"->",
+			"editorView",
+			"(define \\[)('\\w+')(.*\\], \\()(\\w+),? ",
+			"(define \\[)('\\w+')(.+\\], \\()(\\w+),? ",
+			"(define \\[)('\\w+')(.+\\], \\()(\\w+), ",
+			"(define \\[),.('\\w+')(.+\\], \\()(\\w+), ",
+			"(define \\[)('\\w+')(.+\\], \\()(\\w+), ",
+			"(define \\[),\\s('\\w+')(.+\\], \\()(\\w+), ",
+			"(define \\[)\\W+('\\w+')(.+\\], \\()(\\w+), ",
+			"(define \\[)('\\w+'),.(.+\\], \\()(\\w+), ",
+			"(define \\[)('\\w+'),\\s(.+\\], \\()(\\w+), ",
+			"(define \\[)('\\w+')(,.+\\], \\()(\\w+), ",
+			"define \\[('\\w+'),",
+			"define \\[('.+'),",
+			"(\"[^,]+\"), ",
+			"([^,]+), ",
+			"(\".+\"), ",
+			"\",\\n",
+			"\",",
+			"\", ",
+			",",
+			".tmp",
+			"copy",
+			"bower_com",
+			"zoomPercent",
+			"+ 10px",
+			"orange",
+			"absolute",
+			"imagemin",
+			"copy",
+			"space-xs",
+			"logo-height",
+			"px",
+			"100%",
+			"Did",
+			"compass",
+			"entries",
+			"copy",
+			"concat",
+			"copy",
+			"concat",
+			".js",
+			"cb1",
+			"job",
+			"-45",
+			"strong",
+			"since you ",
+			"reindent",
+			"ctrl+i",
+			"howto",
+			"timed",
+			"transition",
+			"pie",
+			"Update",
+			"Create",
+			"mult",
+			"format",
+			"format(",
+			"format",
+			"fill: (#\\w{6})",
+			"&:before.(\\w+)",
+			"&.",
+			"padding",
+			"interpo",
+			"sliceClass",
+			"pie",
+			"', '",
+			"grouptnames",
+			"detailsNames",
+			"(\\d\\d)%",
+			"\"(\\d+),([\\d\\.]+)\"",
+			"\"(\\d),([\\d\\.]+)\"",
+			"\\s??\\+",
+			"\\s?\\+?#",
+			"\"(\\d),([\\d\\.]+)\"",
+			"bootstrap-tooltip",
+			"bootstrap",
+			"bst",
+			"tooltip",
+			"bootstrap/",
+			"rgb",
+			"height: 0",
+			"~[\\d.]+",
+			"$(",
+			"$",
+			"<li>(.+)</li>",
+			"console.log",
+			"options.legend",
+			"options.format",
+			"colorst",
+			"updatedata",
+			"graphN",
+			"graphn",
+			"mapco",
+			"dollarformat",
+			"dollatformat",
+			"details"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\" \\1",
+			"yeoman.",
+			"options",
+			"<%= config.temp %>",
+			"<%= config.app %>",
+			"config.app",
+			"handlebars",
+			"styles",
+			"glyphicon glyphicon",
+			"\\2 = require \\4\\n\\1\\3",
+			"\\1\\n",
+			"\"\\n",
+			"\"",
+			"<%= yeoman.temp %>",
+			"options.zoomPercent",
+			"$orange",
+			"",
+			"@include datapoint(\\1)",
+			"&.\\1:before",
+			"&:before.",
+			"0.\\1",
+			"\\1\\2",
+			"",
+			"\\1\\2",
+			"bootstrap",
+			"bst/",
+			"bst",
+			"*",
+			"'\\1'",
+			"titleHeight",
+			"blockTitles",
+			"origin",
+			"#",
+			", ",
+			"",
+			"../../",
+			"Num",
+			"\\2: \\1",
+			"'\\1': \\3,\\n    '\\2': \\3",
+			"\\1",
+			"i>",
+			"groupNames",
+			"\\1\\2",
+			"\\1",
+			"\\1\\2",
+			"doc",
+			"\\t<which>:\\n\\t\\tform: \"\\1\"\\n\\t\\tmessage: \"\\2\"",
+			"\\t<which>:\\n\\t\\tform:\\1\\n\\t\\tmessage:\\2",
+			"-->\\n",
+			"-->",
+			"<!",
+			"",
+			"\\n\\1\\n",
+			"",
+			" name=\"\"",
+			"map.",
+			"",
+			"District of Columbia",
+			"",
+			"\\1",
+			"",
+			"\\1",
+			"District of Columbia",
+			":\\1\\n\\t",
+			":\\n\\t\\1",
+			"]\\n\\t},",
+			"],\\n\\t\\t\"",
+			"{\\n\\t\\t\"",
+			"{\\t\\t\"",
+			": \\1",
+			": {",
+			"},\\n\\t",
+			"},\\n",
+			"Total,\\1",
+			"Restaurant,\\1",
+			"Grocery,\\1",
+			"Alcohol,\\1",
+			"row[",
+			"Total,\\1",
+			"Restaurant,\\1",
+			"Grocery,\\1",
+			"Alcohol",
+			"Grocery,\\1",
+			"Grocery,\\0",
+			"Grocery,",
+			"]",
+			": [",
+			"total",
+			"restaurant",
+			"grocery",
+			"\\1: \\n\\talcohol:[\\2]",
+			"\\1: [\\2]",
+			"/images/",
+			"",
+			"data",
+			"",
+			"\\n",
+			"",
+			"icon-question-sign",
+			"'",
+			".objectId",
+			"organization",
+			"setup-experteer",
+			"setup-professional",
+			"response",
+			".type",
+			"type",
+			"",
+			"@",
+			"email",
+			"position",
+			"/dashboard'",
+			"/setup/experteer",
+			"/setup/professional",
+			"$dipe",
+			"$animationStrength",
+			"padding",
+			"name",
+			"'",
+			"",
+			"planetPeriods",
+			"\"",
+			"images",
+			"duration",
+			"'",
+			"| &nbsp;",
+			"li",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pop",
+				"_popup.html"
+			],
+			[
+				"sass",
+				"app/styles/main.sass"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"help",
+				"app/scripts/views/help.coffee"
+			],
+			[
+				"rout",
+				"app/scripts/router.coffee"
+			],
+			[
+				"ma.co",
+				"app/scripts/main.coffee"
+			],
+			[
+				"gulpf",
+				"Gulpfile.coffee"
+			],
+			[
+				"scss",
+				"app/styles/main.scss"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"main.js",
+				"dist/scripts/main.js"
+			],
+			[
+				"main",
+				"app/scripts/main.coffee"
+			],
+			[
+				"templ",
+				"dist/scripts/templates.js"
+			],
+			[
+				"confi",
+				"app/scripts/config.coffee"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"app",
+				"app/scripts/app.coffee"
+			],
+			[
+				"gal",
+				"app/scripts/views/gallery.coffee"
+			],
+			[
+				"ga.h",
+				"app/templates/gallery.hjs"
+			],
+			[
+				"carou",
+				"app/styles/carousel.scss"
+			],
+			[
+				"thumb",
+				"app/templates/thumb.hjs"
+			],
+			[
+				"fav",
+				"app/scripts/views/favorites.coffee"
+			],
+			[
+				"bower",
+				"app/bower_components/handlebars/bower.json"
+			],
+			[
+				"expres",
+				"app/scripts/models/expression.coffee"
+			],
+			[
+				"test.co",
+				"app/scripts/views/test.coffee"
+			],
+			[
+				"testli",
+				"app/templates/test-list.hbs"
+			],
+			[
+				"edit",
+				"app/scripts/views/editor.coffee"
+			],
+			[
+				"test.",
+				"app/scripts/views/test.coffee"
+			],
+			[
+				"test.h",
+				"app/templates/_test.hbs"
+			],
+			[
+				"tester",
+				"app/scripts/views/tester.coffee"
+			],
+			[
+				"test",
+				"app/scripts/views/test.coffee"
+			],
+			[
+				"test.hb",
+				"app/templates/_test.hbs"
+			],
+			[
+				"edi",
+				"app/templates/editor.hbs"
+			],
+			[
+				"help.",
+				"app/scripts/views/help.coffee"
+			],
+			[
+				"sw",
+				"src/switchtab.coffee"
+			],
+			[
+				"gr",
+				"Gruntfile.coffee"
+			],
+			[
+				"gruntf",
+				"Gruntfile.coffee"
+			],
+			[
+				"docs",
+				"app/scripts/docs.js"
+			],
+			[
+				"js",
+				"app/bower_components/modernizr/feature-detects/json.js"
+			],
+			[
+				"mobie",
+				"app/styles/mobile.scss"
+			],
+			[
+				"gruntfi",
+				"Gruntfile.js"
+			],
+			[
+				"html",
+				"what-when.html"
+			],
+			[
+				"docs.",
+				"app/scripts/docs.js"
+			],
+			[
+				"in",
+				"app/index.html"
+			],
+			[
+				"bill.js",
+				"app/data/bills.json"
+			],
+			[
+				"bargr",
+				"app/scripts/lib/bar-graph.coffee"
+			],
+			[
+				"min-",
+				"app/scripts/lib/mint-map.coffee"
+			],
+			[
+				"pie-c",
+				"app/scripts/lib/pie-chart.coffee"
+			],
+			[
+				"bar-gra",
+				"app/scripts/lib/bar-graph.coffee"
+			],
+			[
+				"mint-",
+				"app/styles/mint-map.scss"
+			],
+			[
+				"main.s",
+				"app/styles/main.scss"
+			],
+			[
+				"piec",
+				"app/scripts/lib/pie-chart.coffee"
+			],
+			[
+				"bills.c",
+				"app/scripts/bills.coffee"
+			],
+			[
+				"min",
+				"app/styles/mint-map.scss"
+			],
+			[
+				"ht",
+				"app/index.html"
+			],
+			[
+				"ed",
+				".editorconfig"
+			],
+			[
+				"ind",
+				"app/index.html"
+			],
+			[
+				"",
+				"app/styles/mint-map.scss"
+			],
+			[
+				"scs",
+				"app/styles/main.scss"
+			],
+			[
+				"main.scs",
+				"app/styles/main.scss"
+			],
+			[
+				"mi-",
+				"app/scripts/lib/mint-map.coffee"
+			],
+			[
+				"intm",
+				"app/scripts/lib/mint-map.coffee"
+			],
+			[
+				"gener",
+				"app/scripts/_generate.coffee"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"bills.co",
+				"app/scripts/bills.coffee"
+			],
+			[
+				"bils.c",
+				"app/scripts/bills.coffee"
+			],
+			[
+				"inde.",
+				"app/index.html"
+			],
+			[
+				"bills",
+				"app/scripts/bills.coffee"
+			],
+			[
+				"bil",
+				"app/scripts/bills.coffee"
+			],
+			[
+				"mint",
+				"app/scripts/lib/mint-map.coffee"
+			],
+			[
+				"edu",
+				"app/scripts/education.coffee"
+			],
+			[
+				"boot",
+				"app/scripts/lib/bootstrap.coffee"
+			],
+			[
+				"boo",
+				"app/scripts/vendor/bootstrap.coffee"
+			],
+			[
+				"educ",
+				"app/scripts/education.coffee"
+			],
+			[
+				"coff",
+				"app/scripts/mint-map.coffee"
+			],
+			[
+				"mint.sc",
+				"app/styles/mint-map.scss"
+			],
+			[
+				"gall",
+				"app/scripts/views/gallery.coffee"
+			],
+			[
+				"ma",
+				"manifest.json"
+			],
+			[
+				"mani",
+				"manifest.json"
+			],
+			[
+				"mm",
+				"app/styles/mint-map.scss"
+			],
+			[
+				"piech",
+				"app/scripts/pie-chart.coffee"
+			],
+			[
+				"main.sc",
+				"app/styles/main.scss"
+			],
+			[
+				"csv",
+				"app/data/education.csv"
+			],
+			[
+				"bg",
+				"app/scripts/bar-graph.coffee"
+			],
+			[
+				"mscs",
+				"app/styles/mint-map.scss"
+			],
+			[
+				"index.",
+				"app/index.html"
+			],
+			[
+				"coffee",
+				"app/scripts/education.coffee"
+			],
+			[
+				"pie-",
+				"app/scripts/pie-chart.coffee"
+			],
+			[
+				"inde.c",
+				"app/scripts/views/index.coffee"
+			],
+			[
+				"galler",
+				"app/scripts/views/gallery.coffee"
+			],
+			[
+				"galle",
+				"app/scripts/views/gallery.coffee"
+			],
+			[
+				"base",
+				"app/scripts/views/base.coffee"
+			],
+			[
+				"key",
+				"app/scripts/libs/keynames.coffee"
+			],
+			[
+				"bas",
+				"app/scripts/views/base.coffee"
+			],
+			[
+				"index.co",
+				"app/scripts/views/index.coffee"
+			],
+			[
+				"urlba",
+				"app/templates/urlbar.hjs"
+			],
+			[
+				"car",
+				"app/styles/carousel.scss"
+			],
+			[
+				"video",
+				"app/templates/partials/video.hjs"
+			],
+			[
+				"slide",
+				"app/scripts/views/slide.coffee"
+			],
+			[
+				"sli.c",
+				"app/scripts/views/slide.coffee"
+			],
+			[
+				"slid",
+				"app/templates/slide.hjs"
+			],
+			[
+				"moda",
+				"app/styles/modal.scss"
+			],
+			[
+				"inde.co",
+				"app/scripts/views/index.coffee"
+			],
+			[
+				"favo",
+				"app/scripts/views/favorites.coffee"
+			],
+			[
+				"modal",
+				"app/styles/modal.scss"
+			],
+			[
+				"sty",
+				"what-when.styl"
+			],
+			[
+				"coffe",
+				"what-when.coffee"
+			],
+			[
+				"mobi",
+				"app/styles/mobile.scss"
+			],
+			[
+				"mixins",
+				"app/bower_components/sass-bootstrap/lib/_mixins.scss"
+			],
+			[
+				"wws",
+				"what-when.styl"
+			],
+			[
+				"spen",
+				"app/scripts/spending.coffee"
+			],
+			[
+				"mint-m",
+				"app/scripts/mint-map.coffee"
+			],
+			[
+				"trans",
+				"app/data/transportation.csv"
+			],
+			[
+				"usmap",
+				"app/data/usMap.json"
+			],
+			[
+				".ed",
+				".editorconfig"
+			],
+			[
+				"guess",
+				"app/templates/guess.hbs"
+			],
+			[
+				"gues",
+				"app/scripts/views/guess.coffee"
+			],
+			[
+				"main.",
+				"app/styles/main.sass"
+			],
+			[
+				"chall",
+				"app/templates/challenge.hbs"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"vara",
+				"app/bower_components/bootstrap-sass/lib/_variables.scss"
+			],
+			[
+				"router",
+				"app/scripts/router.coffee"
+			],
+			[
+				"navba",
+				"app/templates/navbar.hbs"
+			],
+			[
+				"keyfr",
+				"app/styles/keyframes.sass"
+			],
+			[
+				"navb",
+				"app/templates/navbar.hbs"
+			],
+			[
+				"setu-pro",
+				"views/setup-professional.jade"
+			],
+			[
+				"profi/sid",
+				"views/profile/sidebar.jade"
+			],
+			[
+				"dash",
+				"views/dashboard.jade"
+			],
+			[
+				"prof/sta",
+				"views/profile/status.jade"
+			],
+			[
+				"profi/",
+				"views/profile/sidebar.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}

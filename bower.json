@@ -1,0 +1,10 @@
+{
+  "name": "composition",
+  "private": true,
+  "dependencies": {
+    "sass-bootstrap": "~3.0.0",
+    "jquery": "~1.10.2",
+    "Snap.svg": "~0.2.0"
+  },
+  "devDependencies": {}
+}

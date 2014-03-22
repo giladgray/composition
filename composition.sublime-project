@@ -1,0 +1,10 @@
+{
+    "folders":
+    [
+        {
+            "path": "/Users/giladgray/Documents/Projects/composition",
+            "folder_exclude_patterns": [".tmp", "node_modules"],
+            "file_exclude_patterns": ["*.sublime-workspace"]
+        }
+    ]
+}

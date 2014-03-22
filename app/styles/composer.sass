@@ -1,0 +1,21 @@
+@import 'sass-bootstrap/lib/_mixins'
+
+$btn-icon-size: 20px
+
+.composer
+    text-align: center
+    margin-bottom: 30px
+
+    #composition
+        @include size(400px, 600px)
+        background: black
+
+button.add
+    font-size: $btn-icon-size
+    line-height: 0.7em
+    padding: 0.4em
+
+    svg
+        @include square(1em)
+        vertical-align: middle
+
