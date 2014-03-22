@@ -16,17 +16,18 @@ Circle =
             .drag @resize, @prepResize, @endResize
 
     prepResize: (x, y, evt) ->
+        @attr opacity: 0.7
         # save original radius for resizing
         @data 'r',  @asPX('r')
         @data 'sx', evt.offsetX - @asPX('cx')
         @data 'sy', evt.offsetY - @asPX('cy')
 
     resize: (dx, dy, x, y, evt) ->
+        return unless evt.target is snap.node or evt.target.parentNode is snap.node
         # resize or drag
         if evt.metaKey
             @attr 'r', Math.clamp(@data('r') + dx, 5, w / 2)
         else
-            # TODO: if within bounds
             @attr
                 cx: evt.offsetX - @data('sx')
                 cy: evt.offsetY - @data('sy')
@@ -37,6 +38,7 @@ Circle =
             cy: Math.clamp @asPX('cy'), r, h - r
 
     endResize: (evt) ->
+        @attr opacity: 1
 
 Square =
     size: 50
@@ -46,11 +48,13 @@ Square =
             .drag @resize, @prepResize, @endResize
 
     prepResize: (x, y, evt) ->
+        @attr opacity: 0.7
         @data 'size', @asPX('width')
         @data 'sx', evt.offsetX - @asPX('x')
         @data 'sy', evt.offsetY - @asPX('y')
 
     resize: (dx, dy, x, y, evt) ->
+        return unless evt.target is snap.node or evt.target.parentNode is snap.node
         # resize or drag
         size = @data('size')
         if evt.metaKey
@@ -68,6 +72,7 @@ Square =
             y: Math.clamp @asPX('y'), 0, h - size
 
     endResize: (evt) ->
+        @attr opacity: 1
 
 snap = Snap('#composition')
 
