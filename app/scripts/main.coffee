@@ -39,6 +39,7 @@ Circle =
 
     endResize: (evt) ->
         @attr opacity: 1
+        @remove() if evt.target.id is 'trash'
 
 Square =
     size: 50
@@ -73,8 +74,12 @@ Square =
 
     endResize: (evt) ->
         @attr opacity: 1
+        @remove() if evt.target.id is 'trash'
 
 snap = Snap('#composition')
 
 $('.add.circle').click -> Circle.create(snap)
 $('.add.square').click -> Square.create(snap)
+
+$('.btn.new').click -> snap.clear()
+$('.btn.save').click -> console.log snap.toString()
