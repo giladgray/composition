@@ -15,13 +15,17 @@ $btn-icon-size: 30px
 
     #trash
         opacity: 0
-        background: $brand-danger
+        color: $brand-danger
+        border: 1px solid #ccc
+        border-radius: 4px
         line-height: 1em
 
         position: absolute
         top: 0
         left: 50%
         margin-left: -20px
+
+        @include transition(opacity .3s ease)
 
         &:hover
             background: darken($brand-danger, 15%)
