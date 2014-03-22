@@ -1,29 +1,32 @@
 console.log '\'Allo \'Allo!'
 
-COLOR = '#fff'
-w = 400
-h = 600
+### INITIALIZE SNAP ###
+snap   = Snap('#composition')
+width  = snap.node.clientWidth
+height = snap.node.clientHeight
 
-Circle =
+### DEFINE SHAPES ###
+class Shape
+    color: '#fff'
+    constructor: (elem) ->
+        throw new Error("Must create Element") unless elem
+        elem.attr fill: @color
+            .resize(5, width)
+            .confineDrag(width, height)
+
+class Circle extends Shape
     radius: 25
-    create: (snap) ->
-        snap.circle w / 2, h / 2, @radius
-            .attr fill: COLOR
-            .resize(5, w)
-            .confineDrag(w, h)
+    constructor: ->
+        super snap.circle width / 2, height / 2, @radius
 
-Square =
+class Square extends Shape
     size: 50
-    create: (snap) ->
-        snap.rect (w - @size) / 2, (h - @size) / 2, @size, @size
-            .attr fill: COLOR
-            .resize(5, w)
-            .confineDrag w, h
+    constructor: ->
+        super snap.rect (width - @size) / 2, (height - @size) / 2, @size, @size
 
-snap = Snap('#composition')
-
-$('.add.circle').click -> Circle.create(snap)
-$('.add.square').click -> Square.create(snap)
+### BIND EVENTS ###
+$('.add.circle').click -> new Circle()
+$('.add.square').click -> new Square()
 
 $('.btn.new').click -> snap.clear()
 $('.btn.save').click -> console.log snap.toString()
