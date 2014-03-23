@@ -1,31 +1,26 @@
 Snap.plugin (Snap, Element, Paper, global) ->
     clamp = (value, min, max) -> Math.min(max, Math.max(min, value))
 
-    # update position agnostically for rect or circle
-    Element.prototype.moveTo = (x, y) ->
-        if @type is 'circle'
-            @attr cx: x, cy: y
-        else @attr {x, y}
-
     Element.prototype.confineDrag = (width, height) ->
         prepMove = (x, y, evt) ->
             @attr opacity: 0.7
             # store initial state for rect or circle
             @data 'size', @asPX('width') or @asPX('r')
-            @data 'sx', evt.offsetX - (@asPX('x') or @asPX('cx'))
-            @data 'sy', evt.offsetY - (@asPX('y') or @asPX('cy'))
+            @data 'sx', x = evt.offsetX - (@asPX('x') or @asPX('cx')) or 0 # soak up NaNs
+            @data 'sy', y = evt.offsetY - (@asPX('y') or @asPX('cy')) or 0
 
         move = (dx, dy, x, y, evt) ->
             return unless evt.target is @paper.node or evt.target.parentNode is @paper.node
             # only drag if not resizing
             size = @data('size')
             unless evt.metaKey
-                @moveTo evt.offsetX - @data('sx'), evt.offsetY - @data('sy')
+                x = evt.offsetX - @data('sx')
+                y = evt.offsetY - @data('sy')
             # clamp to composition bounds (circle is radius-based)
             if @type is 'circle'
-                @moveTo clamp(@asPX('cx'), size, width - size), clamp(@asPX('cy'), size, height - size)
+                @attr cx: clamp(x, size, width - size), cy: clamp(y, size, height - size)
             else
-                @moveTo clamp(@asPX('x'), 0, width - size), clamp(@asPX('y'), 0, height - size)
+                @attr x: clamp(x, 0, width - size), y: clamp(y, 0, height - size)
 
         endMove = (evt) ->
             @attr opacity: 1
