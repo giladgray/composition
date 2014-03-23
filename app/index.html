@@ -28,11 +28,16 @@
         <div class="container">
             <div class="header">
                 <ul class="nav nav-pills pull-right">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Github</a></li>
+                    <li class="active"><a href="#">Compose</a></li>
+                    <li><a href="https://github.com/giladgray/composition" target="_blank">Github</a></li>
                 </ul>
-                <h3 class="text-muted">composition</h3>
+                <h3 class="text-muted">
+                    composition
+                    <small>
+                        <code>&lt;/&gt;</code> with <code><span class="glyphicon glyphicon-heart"></span></code>
+                        by <code><a href="https://github.com/giladgray">Gilad Gray</a></code>, 2014
+                    </small>
+                </h3>
             </div>
 
             <div class="composer">
@@ -48,12 +53,12 @@
                         </button>
                     </li>
                     <li class="pull-right">
-                        <button class="btn btn-default save">
+                        <button class="btn btn-default save" title="Save Composition">
                             <span class="glyphicon glyphicon-floppy-disk"></span>
                         </button>
                     </li>
                     <li class="pull-right">
-                        <button class="btn btn-default new">
+                        <button class="btn btn-default new" title="New Composition">
                             <span class="glyphicon glyphicon-file"></span>
                         </button>
                     </li>
@@ -62,10 +67,7 @@
                 <button id="trash" class="btn btn-default trash">
                     <span class="glyphicon glyphicon-trash trash"></span>
                 </button>
-            </div>
-
-            <div class="footer">
-                <p>♥ from the Yeoman team</p>
+                <p><code>Click</code> to select. <code>Drag</code> to move. <code>Cmd+Drag</code> to resize. <code>Drag</code> to trash to delete.</p>
             </div>
 
         </div>

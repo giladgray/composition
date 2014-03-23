@@ -32,8 +32,15 @@ click = (selector, fn) ->
 click 'add circle', -> new Circle()
 click 'add square', -> new Square()
 
-click 'btn new', -> snap.clear()
-click 'btn save', -> console.log snap.toString()
+click 'btn new', ->
+    if confirm 'Your current composition will be lost. Do you want to proceed?'
+        snap.clear()
+
+click 'btn save', ->
+    alert "Here is your composition in SVG format. " \
+        + "Copy and paste it into a text editor and save it as an .svg file.\n\n" \
+        + snap.toString()
+
 click 'btn trash', ->
     Snap.selected()?.remove()
     Snap.selected(null)
