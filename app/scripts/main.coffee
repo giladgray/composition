@@ -13,6 +13,7 @@ class Shape
         elem.attr fill: @color
             .resize(5, width)
             .confineDrag(width, height)
+            .selectable()
 
 class Circle extends Shape
     radius: 25
@@ -30,3 +31,5 @@ $('.add.square').click -> new Square()
 
 $('.btn.new').click -> snap.clear()
 $('.btn.save').click -> console.log snap.toString()
+
+# TODO: make use of selectable() - key bindings for nudgine
