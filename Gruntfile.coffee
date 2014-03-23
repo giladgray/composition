@@ -242,7 +242,13 @@ module.exports = (grunt) ->
           dot: true
           cwd: '<%= yeoman.app %>'
           dest: '<%= yeoman.dist %>'
-          src: ['*.{ico,png,txt}', '.htaccess', 'images/{,*/}*.webp', '{,*/}*.html', 'styles/fonts/{,*/}*.*', 'bower_components/' + ((if @includeCompass then 'sass-' else '')) + 'bootstrap/' + ((if @includeCompass then 'fonts/' else 'dist/fonts/')) + '*.*']
+          src: [
+            '*.{ico,png,txt}'
+            '.htaccess'
+            'images/{,*/}*.webp'
+            '{,*/}*.html'
+            'styles/fonts/{,*/}*.*'
+            'bower_components/sass-bootstrap/fonts/*.*']
         ]
 
       styles:
