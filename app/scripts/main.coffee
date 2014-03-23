@@ -31,5 +31,6 @@ $('.add.square').click -> new Square()
 
 $('.btn.new').click -> snap.clear()
 $('.btn.save').click -> console.log snap.toString()
+$('.btn.trash').click -> Snap.selected()?.remove()
 
 # TODO: make use of selectable() - key bindings for nudgine

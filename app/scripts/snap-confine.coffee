@@ -30,6 +30,6 @@ Snap.plugin (Snap, Element, Paper, global) ->
         endMove = (evt) ->
             @attr opacity: 1
             # delete if dragged to trash
-            @remove() if evt.target.id is 'trash'
+            @remove() if 'trash' in evt.target.classList
 
         @drag move, prepMove, endMove
