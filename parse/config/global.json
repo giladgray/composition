@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "composition"
+        },
+        "composition": {
+            "applicationId": "rBER5XO5m2j8Odcw5ahzk8VYgMUpd1gnQGl5BLkP",
+            "masterKey": "mxbjWgwe5et99zPXi6wojYVdVE6rauF47ywGwRL0"
+        }
+    },
+    "global": {
+        "parseVersion": "1.2.18"
+    }
+}
