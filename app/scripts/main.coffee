@@ -26,12 +26,15 @@ class Square extends Shape
         super snap.rect (width - @size) / 2, (height - @size) / 2, @size, @size
 
 ### BIND EVENTS ###
-$('.add.circle').click -> new Circle()
-$('.add.square').click -> new Square()
+click = (selector, fn) ->
+    document.getElementsByClassName(selector)?[0].onclick = fn
 
-$('.btn.new').click -> snap.clear()
-$('.btn.save').click -> console.log snap.toString()
-$('.btn.trash').click ->
+click 'add circle', -> new Circle()
+click 'add square', -> new Square()
+
+click 'btn new', -> snap.clear()
+click 'btn save', -> console.log snap.toString()
+click 'btn trash', ->
     Snap.selected()?.remove()
     Snap.selected(null)
     snap.node.classList.remove('selected')
