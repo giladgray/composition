@@ -13,7 +13,7 @@ class Shape
         elem.attr fill: @color
             .resize(5, width)
             .confineDrag(width, height)
-            .selectable()
+            .focusable()
 
 class Circle extends Shape
     radius: 25

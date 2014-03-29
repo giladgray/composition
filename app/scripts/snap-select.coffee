@@ -1,7 +1,8 @@
 Snap.plugin (Snap, Element, Paper, global) ->
     global.selected = null
 
-    select = (element) ->
+    focusOn = (element) ->
+        return if global.selected is element
         # revert styles on previously selected element
         global.selected?.attr opacity: 1
         global.selected?.paper?.node.classList.remove('selected')
@@ -11,15 +12,22 @@ Snap.plugin (Snap, Element, Paper, global) ->
         global.selected?.paper.node.classList.add('selected')
 
     # get or set the selected element
-    Snap.selected = (element) ->
-        if element isnt undefined then select element else return global.selected
+    Snap.focus = (element) ->
+        if _.isUndefined(element)   then return global.selected
+        else if _.isString(element) then element = Snap.select element
+        unless element instanceof Element
+            throw new Error("must provide Snap Element")
+        focusOn element
+        return element
 
     # click on element to toggle selected
-    Element.prototype.selectable = ->
+    Element.prototype.focusable = ->
         # clear selection when clicking on paper
-        @paper.click -> select()
+        @paper.mousedown (evt) -> focusOn() unless evt.focused
+        # select immediately on mousedown
+        @mousedown (evt) ->
+            evt.focused = true # disable deselect
+            focusOn @
 
-        @click (event) ->
-            event.stopPropagation()
-            if global.selected is @ then select() else select(@)
+    Element.prototype.focus = -> Snap.selected @
 

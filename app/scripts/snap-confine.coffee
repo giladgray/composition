@@ -20,7 +20,6 @@ Snap.plugin (Snap, Element, Paper, global) ->
                 @attr x: clamp(x, 0, width - size), y: clamp(y, 0, height - size)
 
         prepMove = (x, y, evt) ->
-            @attr opacity: 0.7
             # store initial state for rect or circle
             @data 'sx', x = evt.offsetX - @x()
             @data 'sy', y = evt.offsetY - @y()
@@ -32,7 +31,6 @@ Snap.plugin (Snap, Element, Paper, global) ->
                 clampToBounds(evt.offsetX - @data('sx'), evt.offsetY - @data('sy'))
 
         endMove = (evt) ->
-            @attr opacity: 1
             # delete if dragged to trash
             @remove() if 'trash' in evt.target.classList
             clampToBounds()
