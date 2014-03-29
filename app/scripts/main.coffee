@@ -42,8 +42,8 @@ click 'btn save', ->
         + snap.toString()
 
 click 'btn trash', ->
-    Snap.selected()?.remove()
-    Snap.selected(null)
+    Snap.focus()?.remove()
+    Snap.focus(null)
     snap.node.classList.remove('selected')
 
-# TODO: make use of selectable() - key bindings for nudging
+# TODO: make use of focusable() - key bindings for nudging

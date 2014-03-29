@@ -15,8 +15,6 @@ Snap.plugin (Snap, Element, Paper, global) ->
     Snap.focus = (element) ->
         if _.isUndefined(element)   then return global.selected
         else if _.isString(element) then element = Snap.select element
-        unless element instanceof Element
-            throw new Error("must provide Snap Element")
         focusOn element
         return element
 
