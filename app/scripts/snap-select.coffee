@@ -16,5 +16,10 @@ Snap.plugin (Snap, Element, Paper, global) ->
 
     # click on element to toggle selected
     Element.prototype.selectable = ->
-        @click ->
+        # clear selection when clicking on paper
+        @paper.click -> select()
+
+        @click (event) ->
+            event.stopPropagation()
             if global.selected is @ then select() else select(@)
+
