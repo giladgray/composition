@@ -265,6 +265,11 @@ module.exports = (grunt) ->
       test: ['copy:styles']
       dist: ['coffee', 'compass', 'copy:styles', 'imagemin', 'svgmin']
 
+    'gh-pages':
+      options:
+        base: 'dist'
+      src: ['**']
+
   grunt.registerTask 'serve', (target) ->
     return grunt.task.run(['build', 'connect:dist:keepalive'])  if target is 'dist'
     grunt.task.run ['clean:server', 'concurrent:server', 'autoprefixer', 'connect:livereload', 'watch']
